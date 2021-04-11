@@ -10,158 +10,38 @@
             {
                 "title": "GISPD",
                 "type": "gispd",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
                 "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M10.7,3.2l-6.7,7.5l6.8-1l-4.5,7.2l9.5-9L9.2,8.3L10.7,3.2z\"/>",
-				"icondisplay":"inline-block"
+				"html":"<path fill=\"#FFFFFF\" d=\"M10.7,3.2l-6.7,7.5l6.8-1l-4.5,7.2l9.5-9L9.2,8.3L10.7,3.2z\"/>"
+            },
+            {
+                "title": "MTRPD",
+                "type": "mtrpd",
+                "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
+                "html":"<path fill=\"#FFFFFF\" d=\"M10.7,3.2l-6.7,7.5l6.8-1l-4.5,7.2l9.5-9L9.2,8.3L10.7,3.2z\"/>"
             },
             {
                 "title": "CBCM",
                 "type": "cbcm",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
                 "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<rect fill=\"#FFFFFF\" x=\"9\" y=\"2\" width=\"2\" height=\"6\"></rect><rect fill=\"#FFFFFF\" x=\"6.82842712\" y=\"6.82842712\" width=\"2\" height=\"6\" transform=\"translate(7.828427, 9.828427) rotate(45.000000) translate(-7.828427, -9.828427)\"></rect><rect fill=\"#FFFFFF\" x=\"9\" y=\"12\" width=\"2\" height=\"6\"></rect>",
-				"icondisplay":"inline-block"
-            },
-            {
-                "title": "SF6",
-                "type": "sf6",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
-                "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M11.7486432,13.9999997 L6.4994573,13.9999997 C4.5667604,13.9999997 3,12.5077274 3,10.6669162 C3,8.82610504 4.5667604,7.33383274 6.4994573,7.33383274 C6.59860859,7.33383274 6.69775988,7.35438675 6.79107874,7.36216395 C7.66716382,4.95616037 10.3019877,3.56180622 12.9096842,4.12418556 C15.5173807,4.6865649 17.2645873,7.02595366 16.967059,9.55672957 C16.6695307,12.0875055 14.4223509,14.0008883 11.7486432,13.9999997 L11.7486432,13.9999997 Z M8.60566197,9 L7.38886921,8.58717187 C6.4312798,8.58717187 5.65500021,9.326545 5.65500021,10.238608 C5.65500021,11.150671 6.4312798,11.8900441 7.38886921,11.8900441 L10.8566072,11.8900441 L10.8566072,11.8574282 C11.984742,12.0200703 13.113305,11.5661827 13.777632,10.6826448 C14.441959,9.7991069 14.529733,8.63529763 14.0048147,7.67039308 C13.4798964,6.70548853 12.4310333,6.10262413 11.2900745,6.11001772 C9.78267208,6.11063463 8.81989662,7.57883742 8.60566197,9 Z\"></path>",
-				"icondisplay":"inline-block"
+				"html":"<rect fill=\"#FFFFFF\" x=\"9\" y=\"2\" width=\"2\" height=\"6\"></rect><rect fill=\"#FFFFFF\" x=\"6.82842712\" y=\"6.82842712\" width=\"2\" height=\"6\" transform=\"translate(7.828427, 9.828427) rotate(45.000000) translate(-7.828427, -9.828427)\"></rect><rect fill=\"#FFFFFF\" x=\"9\" y=\"12\" width=\"2\" height=\"6\"></rect>"
             },
             {
                 "title": "부싱",
                 "type": "bushing",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
                 "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M9,6.00335124 L9,13.9966488 C9,14.5525348 9.44719907,15 10,15 C10.5499253,15 11,14.549772 11,13.9966488 L11,6.00335124 C11,5.44746517 10.5528009,5 10,5 C9.45007472,5 9,5.450228 9,6.00335124 Z M7,6.00335124 C7,4.34464615 8.34651712,3 10,3 C11.6568542,3 13,4.34237885 13,6.00335124 L13,13.9966488 C13,15.6553538 11.6534829,17 10,17 C8.34314575,17 7,15.6576211 7,13.9966488 L7,6.00335124 Z\"></path><rect fill=\"#FFFFFF\" x=\"5\" y=\"6\" width=\"10\" height=\"2\" rx=\"1\"></rect><rect fill=\"#FFFFFF\" x=\"5\" y=\"9\" width=\"10\" height=\"2\" rx=\"1\"></rect><rect fill=\"#FFFFFF\" x=\"5\" y=\"12\" width=\"10\" height=\"2\" rx=\"1\"></rect>",
-				"icondisplay":"inline-block"
-            },
-            {
-                "title": "M.TrPD",
-                "type": "mtrpd",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
-                "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M10.7,3.2l-6.7,7.5l6.8-1l-4.5,7.2l9.5-9L9.2,8.3L10.7,3.2z\"/>",
-				"icondisplay":"inline-block"
+				"html":"<path fill=\"#FFFFFF\" d=\"M9,6.00335124 L9,13.9966488 C9,14.5525348 9.44719907,15 10,15 C10.5499253,15 11,14.549772 11,13.9966488 L11,6.00335124 C11,5.44746517 10.5528009,5 10,5 C9.45007472,5 9,5.450228 9,6.00335124 Z M7,6.00335124 C7,4.34464615 8.34651712,3 10,3 C11.6568542,3 13,4.34237885 13,6.00335124 L13,13.9966488 C13,15.6553538 11.6534829,17 10,17 C8.34314575,17 7,15.6576211 7,13.9966488 L7,6.00335124 Z\"></path><rect fill=\"#FFFFFF\" x=\"5\" y=\"6\" width=\"10\" height=\"2\" rx=\"1\"></rect><rect fill=\"#FFFFFF\" x=\"5\" y=\"9\" width=\"10\" height=\"2\" rx=\"1\"></rect><rect fill=\"#FFFFFF\" x=\"5\" y=\"12\" width=\"10\" height=\"2\" rx=\"1\"></rect>"
             },
             {
                 "title": "OLTC",
                 "type": "oltc",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
                 "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M10,16 C13.3137085,16 16,13.3137085 16,10 C16,6.6862915 13.3137085,4 10,4 C6.6862915,4 4,6.6862915 4,10 C4,13.3137085 6.6862915,16 10,16 Z M10,14 C7.790861,14 6,12.209139 6,10 C6,7.790861 7.790861,6 10,6 C12.209139,6 14,7.790861 14,10 C14,12.209139 12.209139,14 10,14 Z\"></path><circle fill=\"#FFFFFF\" cx=\"10\" cy=\"10\" r=\"2\"></circle>",
-				"icondisplay":"inline-block"
+				"html":"<path fill=\"#FFFFFF\" d=\"M10,16 C13.3137085,16 16,13.3137085 16,10 C16,6.6862915 13.3137085,4 10,4 C6.6862915,4 4,6.6862915 4,10 C4,13.3137085 6.6862915,16 10,16 Z M10,14 C7.790861,14 6,12.209139 6,10 C6,7.790861 7.790861,6 10,6 C12.209139,6 14,7.790861 14,10 C14,12.209139 12.209139,14 10,14 Z\"></path><circle fill=\"#FFFFFF\" cx=\"10\" cy=\"10\" r=\"2\"></circle>"
             },
             {
                 "title": "유중가스",
                 "type": "dga",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
                 "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M10,15 C12.209139,15 14,13.209139 14,11 C14,8.790861 10,4 10,4 C10,4 6,8.790861 6,11 C6,13.209139 7.790861,15 10,15 Z\"></path>",
-				"icondisplay":"inline-block"
-            },
-            {
-                "title": "UPS",
-                "type": "ups",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
-                "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M13,3H7C5.3,3,4,4.3,4,6v8c0,1.6,1.3,3,3,3h6c1.7,0,3-1.4,3-3V6C16,4.3,14.7,3,13,3z M11,15c0,0.5-0.5,1-1,1H9c-0.5,0-1-0.5-1-1V9c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V15z M11,6c0,0.5-0.5,1-1,1H9C8.5,7,8,6.5,8,6V5c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V6z M15,15c0,0.5-0.5,1-1,1h-1c-0.5,0-1-0.5-1-1V9c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V15z M15,6c0,0.5-0.5,1-1,1h-1c-0.5,0-1-0.5-1-1V5c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V6z\"/>",
-				"icondisplay":"inline-block"
-            },
-            {
-                "title": "DU",
-                "type": "du",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
-                "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M13,3H7C5.3,3,4,4.3,4,6v8c0,1.6,1.3,3,3,3h6c1.7,0,3-1.4,3-3V6C16,4.3,14.7,3,13,3z M11,15c0,0.5-0.5,1-1,1H9c-0.5,0-1-0.5-1-1V9c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V15z M11,6c0,0.5-0.5,1-1,1H9C8.5,7,8,6.5,8,6V5c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V6z M15,15c0,0.5-0.5,1-1,1h-1c-0.5,0-1-0.5-1-1V9c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V15z M15,6c0,0.5-0.5,1-1,1h-1c-0.5,0-1-0.5-1-1V5c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V6z\"/>",
-				"icondisplay":"inline-block"
-            },
-            {
-                "title": "LU",
-                "type": "lu",
-                "class": "active",
-				"on": "background:#8278f3;color:#ffffff;",
-                "off": "background:none;color:#8278f3;",
-                "typeTitle": "",
-                "headerStyle":"display:none",
-                "style": "",
-                "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"<path fill=\"#FFFFFF\" d=\"M13,3H7C5.3,3,4,4.3,4,6v8c0,1.6,1.3,3,3,3h6c1.7,0,3-1.4,3-3V6C16,4.3,14.7,3,13,3z M11,15c0,0.5-0.5,1-1,1H9c-0.5,0-1-0.5-1-1V9c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V15z M11,6c0,0.5-0.5,1-1,1H9C8.5,7,8,6.5,8,6V5c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V6z M15,15c0,0.5-0.5,1-1,1h-1c-0.5,0-1-0.5-1-1V9c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V15z M15,6c0,0.5-0.5,1-1,1h-1c-0.5,0-1-0.5-1-1V5c0-0.5,0.5-1,1-1h1c0.5,0,1,0.5,1,1V6z\"/>",
-				"icondisplay":"inline-block"
-            },
-            {
-                "title": "PD CBCM SF5",
-                "type": "GIS",
-                "typeTitle": "GIS",
-                "class": "active",
-                "on": "border-top-right-radius: 4px;border-bottom-right-radius: 4px;background-color: rgba(0, 0, 0, 0.6);border: solid 3px #86b5ff;color:#fff;padding:0 20px;float:left;line-height:20px;",
-                "off": "border-top-right-radius: 4px;border-bottom-right-radius: 4px;background-color: rgba(0, 0, 0, 0.6);border: solid 3px #86b5ff;color:#fff;padding:0 20px;float:left;line-height:20px;",
-                "headerStyle":"float:left;background:#86b5ff;color:#000;border: solid 3px #86b5ff;margin-left:15px;line-height:20px;font-size:24px;font-weight:bold;padding:0 5px;border-bottom-left-radius: 4px;border-top-left-radius: 4px;",
-                "style": "padding:14px;border-radius: 4px;background-color: rgba(0, 0, 0, 0.6);border: solid 2px #86b5ff;color:#fff;",
-                "tip":"border-radius: 4px;background-color: rgba(134, 180, 255, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #86b5ff;padding:10px;color:#000;font-weight:bold;",
-				"html":"",
-				"icondisplay":"none"
-            },
-            {
-                "title": "PD OLTC 부싱 유중가스",
-                "type": "MTr",
-                "typeTitle": "M.Tr",
-                "class": "active",
-				"on": "border-top-right-radius: 4px;border-bottom-right-radius: 4px;background-color: rgba(0, 0, 0, 0.6);border: solid 3px #71ffc3;color:#fff;padding:0 20px;float:left;line-height:20px;margin-right:10px;",
-                "off": "border-top-right-radius: 4px;border-bottom-right-radius: 4px;background-color: rgba(0, 0, 0, 0.6);border: solid 3px #71ffc3;color:#fff;padding:0 20px;float:left;line-height:20px;margin-right:10px;",
-                "headerStyle":"float:left;background:#71ffc3;color:#000;border: solid 3px #71ffc3;margin-left:15px;line-height:20px;font-size:24px;font-weight:bold;padding:0 5px;border-bottom-left-radius: 4px;border-top-left-radius: 4px;",
-                "style": "padding:12px;border-radius: 4px;background-color: rgba(0, 0, 0, 0.6);border: solid 2px #71ffc3;color:#fff;",
-                "tip":"border-radius: 4px;background-color: rgba(113, 255, 194, 0.8);box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);border: solid 2px #71ffc3;padding:10px;color:#000;font-weight:bold;",
-				"html":"",
-				"icondisplay":"none"
+				"html":"<path fill=\"#FFFFFF\" d=\"M10,15 C12.209139,15 14,13.209139 14,11 C14,8.790861 10,4 10,4 C10,4 6,8.790861 6,11 C6,13.209139 7.790861,15 10,15 Z\"></path>"
             }
         ]
     },
@@ -174,7 +54,7 @@
                 336,
                 158
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -186,7 +66,7 @@
                 379,
                 158
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -198,7 +78,7 @@
                 421,
                 158
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -210,7 +90,7 @@
                 510,
                 158
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -222,7 +102,7 @@
                 553,
                 158
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -234,19 +114,7 @@
                 596,
                 158
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis006",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                682,
-                158
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -258,31 +126,7 @@
                 726,
                 158
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis008",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                770,
-                158
-            ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis009",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                858,
-                158
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -294,7 +138,7 @@
                 902,
                 158
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -306,7 +150,7 @@
                 946,
                 158
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -318,7 +162,7 @@
                 336,
                 203
             ],
-            "status": "device1",
+            "status": "danger",
             "url":"",
             "graph":"sensor"
         },
@@ -330,7 +174,7 @@
                 336,
                 255
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -342,7 +186,7 @@
                 379,
                 255
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -354,7 +198,7 @@
                 421,
                 255
             ],
-            "status": "diag2",
+            "status": "netError",
             "url":"",
             "graph":"sensor"
         },
@@ -366,7 +210,7 @@
                 510,
                 255
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -378,7 +222,7 @@
                 553,
                 255
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -390,19 +234,7 @@
                 596,
                 255
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis019",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                682,
-                255
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -414,31 +246,7 @@
                 726,
                 255
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis021",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                770,
-                255
-            ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis022",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                858,
-                255
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -450,7 +258,7 @@
                 902,
                 255
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -462,19 +270,7 @@
                 946,
                 255
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis025",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                1205,
-                255
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -486,7 +282,7 @@
                 1250,
                 255
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -498,31 +294,7 @@
                 1293,
                 255
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis028",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                379,
-                341
-            ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis029",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                553,
-                341
-            ],
-            "status": "diag2",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -534,7 +306,7 @@
                 726,
                 341
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -546,19 +318,7 @@
                 902,
                 341
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis032",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                1205,
-                341
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -570,7 +330,7 @@
                 1250,
                 341
             ],
-            "status": "diag1",
+            "status": "attention",
             "url":"",
             "graph":"sensor"
         },
@@ -582,7 +342,7 @@
                 1293,
                 341
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -594,7 +354,7 @@
                 532,
                 400
             ],
-            "status": "device0",
+            "status": "error",
             "url":"",
             "graph":"sensor"
         },
@@ -606,7 +366,7 @@
                 1036,
                 400
             ],
-            "status": "device0",
+            "status": "error",
             "url":"",
             "graph":"sensor",
             "url":"",
@@ -620,19 +380,19 @@
                 185,
                 598
             ],
-            "status": "diag1",
+            "status": "attention",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis038",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 226,
                 610
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -644,7 +404,7 @@
                 184,
                 628
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -656,7 +416,7 @@
                 221,
                 646
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -668,31 +428,31 @@
                 290,
                 598
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis042",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 333,
                 610
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis043",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 297,
                 616
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -704,7 +464,7 @@
                 316,
                 619
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -716,7 +476,7 @@
                 287,
                 628
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -728,7 +488,7 @@
                 326,
                 646
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -740,19 +500,19 @@
                 394,
                 598
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis048",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 437,
                 610
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -764,7 +524,7 @@
                 392,
                 628
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -776,7 +536,7 @@
                 430,
                 646
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -788,19 +548,19 @@
                 498,
                 598
             ],
-            "status": "diag1",
+            "status": "attention",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis052",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 541,
                 610
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -812,7 +572,7 @@
                 495,
                 628
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -824,7 +584,7 @@
                 533,
                 646
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -836,19 +596,19 @@
                 647,
                 598
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis056",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 688,
                 600
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -860,7 +620,7 @@
                 643,
                 623
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -872,7 +632,7 @@
                 683,
                 639
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -884,19 +644,19 @@
                 752,
                 598
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis060",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 796,
                 600
             ],
-            "status": "diag2",
+            "status": "netError",
             "url":"",
             "graph":"sensor"
         },
@@ -908,7 +668,7 @@
                 751,
                 623
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -920,7 +680,7 @@
                 788,
                 639
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -932,19 +692,19 @@
                 860,
                 586
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis064",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 901,
                 595
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -956,7 +716,7 @@
                 857,
                 617
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -968,7 +728,7 @@
                 893,
                 632
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -980,19 +740,19 @@
                 964,
                 586
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis068",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 1006,
                 595
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1004,7 +764,7 @@
                 962,
                 617
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1016,7 +776,7 @@
                 1000,
                 632
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1028,19 +788,19 @@
                 1075,
                 586
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis072",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 1117,
                 595
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1052,7 +812,7 @@
                 1072,
                 617
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1064,7 +824,7 @@
                 1112,
                 632
             ],
-            "status": "diag2",
+            "status": "netError",
             "url":"",
             "graph":"sensor"
         },
@@ -1076,19 +836,19 @@
                 1192,
                 586
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis076",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 1234,
                 595
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1100,7 +860,7 @@
                 1190,
                 617
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1112,7 +872,7 @@
                 1226,
                 632
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1124,19 +884,19 @@
                 1294,
                 588
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis080",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 1335,
                 595
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1148,7 +908,7 @@
                 1289,
                 617
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1160,7 +920,7 @@
                 1327,
                 632
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1172,19 +932,19 @@
                 1394,
                 589
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
         {
             "webid": "gis084",
-            "type": "mtrpd",
+            "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
                 1435,
                 595
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1196,7 +956,7 @@
                 1390,
                 617
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1208,19 +968,7 @@
                 1429,
                 632
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis087",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                319,
-                825
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1232,7 +980,7 @@
                 435,
                 846
             ],
-            "status": "diag1",
+            "status": "attention",
             "url":"",
             "graph":"sensor"
         },
@@ -1244,7 +992,7 @@
                 506,
                 845
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1256,19 +1004,7 @@
                 580,
                 846
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis091",
-            "type": "sf6",
-            "title": "북경남-고령#1T/L GIS Bay SF6 #1",
-            "pos": [
-                630,
-                855
-            ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1280,7 +1016,7 @@
                 668,
                 851
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1292,7 +1028,7 @@
                 743,
                 854
             ],
-            "status": "diag0",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1304,31 +1040,7 @@
                 772,
                 852
             ],
-            "status": "diag0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis095",
-            "type": "ups",
-            "title": "북경남-고령# UPS",
-            "pos": [
-                1774,
-                229
-            ],
-            "status": "device0",
-            "url":"",
-            "graph":"sensor"
-        },
-        {
-            "webid": "gis096",
-            "type": "ups",
-            "title": "북경남-고령# UPS",
-            "pos": [
-                1786,
-                245
-            ],
-            "status": "device1",
+            "status": "normal",
             "url":"",
             "graph":"sensor"
         },
@@ -1344,11 +1056,11 @@
 			"attr":"fill:#f00;opacity:0.3",
 			"data": 40,
             "speed": 1,
-			"status": "diag0"
+			"status": "normal"
 		},
 		{
 			"webid": "mtr000",
-			"type": "mtrpd",
+			"type": "gispd",
 			"graph":"sonar",
 			"title": "#1 M.Tr A PD #1",
 			"pos": [379, 158, 379, 158], 
@@ -1358,7 +1070,7 @@
 			"attr":"fill:#f00;opacity:0.3",
 			"data" : 20,
             "speed": 5,
-			"status": "diag0"
+			"status": "normal"
 		},
         {
 			"webid": "cbcm002",
@@ -1366,7 +1078,7 @@
 			"graph":"status",
 			"title":"북경남-고령#1T/L GIS Bay1 CBCM #1",
 			"pos": [421, 158, 408, 177], 
-			"status": "diag0",
+			"status": "normal",
 			"label":"background:#faa",
 			"unit":"",
 			"data": "on"
@@ -1377,7 +1089,7 @@
 			"graph":"status",
             "title": "#1 M.Tr A OLTC",
             "pos": [510, 158, 480, 177], 
-            "status": "diag0",
+            "status": "normal",
 			"label":"background:#faa",
 			"unit":"step",
             "data": 12
