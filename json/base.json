@@ -1,0 +1,33 @@
+{
+	"data":{
+		"logo":"../lib/clip/logo.png",
+		"username":"Hika",
+		"userGroup":"super"
+	},
+    "status":[
+        {
+          "title": "정상",
+          "bg": "#78d100"
+        },
+        {
+          "title": "주의",
+          "bg": "#f5a623"
+        },
+        {
+          "title": "이상",
+          "bg": "#f5a623"
+        },
+        {
+          "title": "위험",
+          "bg": "#f5a623"
+        },
+        {
+          "title": "통신이상",
+          "bg": "#f5a623"
+        },
+        {
+          "title": "장비이상",
+          "bg": "#f5a623"
+        }
+    ]
+}
