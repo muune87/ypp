@@ -1,0 +1,10 @@
+{	
+	"data":{
+		"bg":"../lib/clip/account/bg0.jpg",
+		"title":"변전소 종합예방 진단시스템",
+		"logo":"../lib/clip/account/kepco.png",
+		"subTitle":"경산전력지사",
+		"subLogo":"../lib/clip//account/elec.png",
+		"notice": "<p>계정신청승인/분실</p><p>관재철: 010-0000-0000</p><p>장: 홍길동</p><p>부: 홍길동</p>"
+	}
+}
