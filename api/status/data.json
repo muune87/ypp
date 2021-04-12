@@ -47,7 +47,7 @@
     },
     "data": [
 		{
-            "id": "gis000",
+            "webid": "gis000",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -59,7 +59,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis001",
+            "webid": "gis001",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -71,7 +71,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis002",
+            "webid": "gis002",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -83,7 +83,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis003",
+            "webid": "gis003",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -95,7 +95,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis004",
+            "webid": "gis004",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -107,7 +107,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis005",
+            "webid": "gis005",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -119,7 +119,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis007",
+            "webid": "gis007",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -131,7 +131,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis010",
+            "webid": "gis010",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -143,7 +143,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis011",
+            "webid": "gis011",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -155,7 +155,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis012",
+            "webid": "gis012",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -167,7 +167,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis013",
+            "webid": "gis013",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -179,7 +179,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis014",
+            "webid": "gis014",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -191,7 +191,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis015",
+            "webid": "gis015",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -203,7 +203,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis016",
+            "webid": "gis016",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -215,7 +215,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis017",
+            "webid": "gis017",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -227,7 +227,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis018",
+            "webid": "gis018",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -239,7 +239,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis020",
+            "webid": "gis020",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -251,7 +251,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis023",
+            "webid": "gis023",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -263,7 +263,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis024",
+            "webid": "gis024",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -275,7 +275,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis026",
+            "webid": "gis026",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -287,7 +287,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis027",
+            "webid": "gis027",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -299,7 +299,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis030",
+            "webid": "gis030",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -311,7 +311,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis031",
+            "webid": "gis031",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -323,7 +323,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis033",
+            "webid": "gis033",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -335,7 +335,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis034",
+            "webid": "gis034",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -347,7 +347,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis035",
+            "webid": "gis035",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -359,7 +359,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis036",
+            "webid": "gis036",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -373,7 +373,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis037",
+            "webid": "gis037",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -385,7 +385,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis038",
+            "webid": "gis038",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -397,7 +397,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis039",
+            "webid": "gis039",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -409,7 +409,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis040",
+            "webid": "gis040",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -421,7 +421,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis041",
+            "webid": "gis041",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -433,7 +433,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis042",
+            "webid": "gis042",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -445,7 +445,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis043",
+            "webid": "gis043",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -457,7 +457,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis044",
+            "webid": "gis044",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -469,7 +469,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis045",
+            "webid": "gis045",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -481,7 +481,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis046",
+            "webid": "gis046",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -493,7 +493,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis047",
+            "webid": "gis047",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -505,7 +505,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis048",
+            "webid": "gis048",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -517,7 +517,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis049",
+            "webid": "gis049",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -529,7 +529,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis050",
+            "webid": "gis050",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -541,7 +541,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis051",
+            "webid": "gis051",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -553,7 +553,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis052",
+            "webid": "gis052",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -565,7 +565,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis053",
+            "webid": "gis053",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -577,7 +577,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis054",
+            "webid": "gis054",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -589,7 +589,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis055",
+            "webid": "gis055",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -601,7 +601,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis056",
+            "webid": "gis056",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -613,7 +613,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis057",
+            "webid": "gis057",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -625,7 +625,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis058",
+            "webid": "gis058",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -637,7 +637,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis059",
+            "webid": "gis059",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -649,7 +649,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis060",
+            "webid": "gis060",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -661,7 +661,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis061",
+            "webid": "gis061",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -673,7 +673,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis062",
+            "webid": "gis062",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -685,7 +685,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis063",
+            "webid": "gis063",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -697,7 +697,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis064",
+            "webid": "gis064",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -709,7 +709,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis065",
+            "webid": "gis065",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -721,7 +721,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis066",
+            "webid": "gis066",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -733,7 +733,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis067",
+            "webid": "gis067",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -745,7 +745,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis068",
+            "webid": "gis068",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -757,7 +757,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis069",
+            "webid": "gis069",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -769,7 +769,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis070",
+            "webid": "gis070",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -781,7 +781,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis071",
+            "webid": "gis071",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -793,7 +793,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis072",
+            "webid": "gis072",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -805,7 +805,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis073",
+            "webid": "gis073",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -817,7 +817,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis074",
+            "webid": "gis074",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -829,7 +829,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis075",
+            "webid": "gis075",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -841,7 +841,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis076",
+            "webid": "gis076",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -853,7 +853,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis077",
+            "webid": "gis077",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -865,7 +865,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis078",
+            "webid": "gis078",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -877,7 +877,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis079",
+            "webid": "gis079",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -889,7 +889,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis080",
+            "webid": "gis080",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -901,7 +901,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis081",
+            "webid": "gis081",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -913,7 +913,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis082",
+            "webid": "gis082",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -925,7 +925,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis083",
+            "webid": "gis083",
             "type": "bushing",
             "title": "북경남-고령#1T/L #1 M.Tr bushing #1",
             "pos": [
@@ -937,7 +937,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis084",
+            "webid": "gis084",
             "type": "gispd",
             "title": "북경남-고령#1T/L #1 M.TrPD",
             "pos": [
@@ -949,7 +949,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis085",
+            "webid": "gis085",
             "type": "oltc",
             "title": "북경남-고령#1T/L #1 M.Tr OLTC",
             "pos": [
@@ -961,7 +961,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis086",
+            "webid": "gis086",
             "type": "dga",
             "title": "북경남-고령#1T/L #1 M.Tr 유중가스 H2",
             "pos": [
@@ -973,7 +973,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis088",
+            "webid": "gis088",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -985,7 +985,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis089",
+            "webid": "gis089",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -997,7 +997,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis090",
+            "webid": "gis090",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -1009,7 +1009,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis092",
+            "webid": "gis092",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -1021,7 +1021,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis093",
+            "webid": "gis093",
             "type": "gispd",
             "title": "북경남-고령#1T/L GIS Bay1",
             "pos": [
@@ -1033,7 +1033,7 @@
             "graph":"sensor"
         },
         {
-            "id": "gis094",
+            "webid": "gis094",
             "type": "cbcm",
             "title": "북경남-고령#1T/L GIS Bay1 cbcm #1",
             "pos": [
@@ -1045,7 +1045,7 @@
             "graph":"sensor"
         },
        {
-			"id": "gis000",
+			"webid": "gis000",
 			"type": "gispd",
 			"graph":"sonar",
 			"title": "북경남-고령#1T/L GIS Bay1 PD #1",
@@ -1059,7 +1059,7 @@
 			"status": "normal"
 		},
 		{
-			"id": "mtr000",
+			"webid": "mtr000",
 			"type": "gispd",
 			"graph":"sonar",
 			"title": "#1 M.Tr A PD #1",
@@ -1073,9 +1073,9 @@
 			"status": "normal"
 		},
         {
-			"id": "cbcm002",
+			"webid": "cbcm002",
 			"type": "cbcm",
-			"graph":"status",
+			"graph":"label",
 			"title":"북경남-고령#1T/L GIS Bay1 CBCM #1",
 			"pos": [421, 158, 408, 177],
 			"status": "normal",
@@ -1084,9 +1084,9 @@
 			"data": "on"
         },
         {
-            "id": "oltc005",
+            "webid": "oltc005",
             "type": "oltc",
-			"graph":"status",
+			"graph":"label",
             "title": "#1 M.Tr A OLTC",
             "pos": [510, 158, 480, 177],
             "status": "normal",
