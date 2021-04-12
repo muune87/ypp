@@ -1,0 +1,1733 @@
+{
+  "meta": {
+    "type" : "local",
+    "column":[100]
+  },
+  "data": [
+    {
+      "webid": "lu00",
+      "@tmpl": "group",
+      "style": "",
+      "column": 0,
+      "title": "LU",
+      "alarm": 0,
+      "data": [
+        {
+          "webid": "lu0",
+          "@tmpl": "luGroupInner",
+          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "title": "LU101",
+          "alarm": 0,
+          "status": "device1",
+          "cu": {
+            "webid": "lu000",
+            "alarm": 0,
+            "status": "device1"
+          },
+          "data": [
+            {
+              "webid": "lu001",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 0,
+              "status": "device1",
+              "sensor": {
+                "webid": "aaa0",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu002",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa1",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -30,
+                "count": 1010,
+                "max": -30,
+                "offset": 40,
+                "atten": 110,
+                "1minute": 20
+              },
+              "data": []
+            },
+            {
+              "webid": "lu003",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa2",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu004",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa3",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu005",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa4",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu006",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa5",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu007",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa6",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu008",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa7",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu009",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa8",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu010",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa9",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            }
+          ]
+        },
+        {
+          "webid": "lu2",
+          "@tmpl": "luGroupInner",
+          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "title": "LU102",
+          "alarm": 6,
+          "status": "device0",
+          "cu": {
+            "webid": "lu000",
+            "alarm": 6,
+            "status": "device0"
+          },
+          "data": [
+            {
+              "webid": "lu001",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa0",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu002",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa1",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu003",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa2",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu004",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa3",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu005",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa4",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu006",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa5",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu007",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa6",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu008",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa7",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu009",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa8",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu010",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa9",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            }
+          ]
+        },
+        {
+          "webid": "lu3",
+          "@tmpl": "luGroupInner",
+          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "title": "LU103",
+          "alarm": 6,
+          "status": "device0",
+          "cu": {
+            "webid": "lu000",
+            "alarm": 6,
+            "status": "device0"
+          },
+          "data": [
+            {
+              "webid": "lu001",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa0",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu002",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa1",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu003",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa2",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu004",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa3",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu005",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa4",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu006",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa5",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu007",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa6",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu008",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa7",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu009",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa8",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu010",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa9",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            }
+          ]
+        },
+        {
+          "webid": "lu4",
+          "@tmpl": "luGroupInner",
+          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "title": "LU104",
+          "alarm": 6,
+          "status": "device0",
+          "cu": {
+            "webid": "lu000",
+            "alarm": 6,
+            "status": "device0"
+          },
+          "data": [
+            {
+              "webid": "lu001",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa0",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu002",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa1",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu003",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa2",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu004",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa3",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu005",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa4",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu006",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa5",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu007",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa6",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu008",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa7",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu009",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa8",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu010",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa9",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            }
+          ]
+        },
+        {
+          "webid": "lu5",
+          "@tmpl": "luGroupInner",
+          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "title": "LU105",
+          "alarm": 6,
+          "status": "device0",
+          "cu": {
+            "webid": "lu000",
+            "alarm": 6,
+            "status": "device0"
+          },
+          "data": [
+            {
+              "webid": "lu001",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa0",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu002",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa1",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu003",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa2",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu004",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa3",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu005",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa4",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu006",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa5",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu007",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa6",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu008",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa7",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu009",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa8",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu010",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa9",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            }
+          ]
+        },
+        {
+          "webid": "lu6",
+          "@tmpl": "luGroupInner",
+          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "title": "LU106",
+          "alarm": 6,
+          "status": "device0",
+          "cu": {
+            "webid": "lu000",
+            "alarm": 6,
+            "status": "device0"
+          },
+          "data": [
+            {
+              "webid": "lu001",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa0",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu002",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa1",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu003",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa2",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu004",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa3",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu005",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa4",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu006",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa5",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu007",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa6",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu008",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa7",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu009",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa8",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu010",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa9",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            }
+          ]
+        },
+        {
+          "webid": "lu7",
+          "@tmpl": "luGroupInner",
+          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "title": "LU107",
+          "alarm": 6,
+          "status": "device0",
+          "cu": {
+            "webid": "lu000",
+            "alarm": 6,
+            "status": "device0"
+          },
+          "data": [
+            {
+              "webid": "lu001",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa0",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu002",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa1",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu003",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa2",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu004",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa3",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu005",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa4",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu006",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa5",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu007",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa6",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu008",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa7",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu009",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device0",
+              "sensor": {
+                "webid": "aaa8",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            },
+            {
+              "webid": "lu010",
+              "@tmpl": "luColumn",
+              "style": "",
+              "title": "CH#1",
+              "slot": "DAUslot#2",
+              "alarm": 6,
+              "status": "device1",
+              "sensor": {
+                "webid": "aaa9",
+                "title": "북경남-고령 #1T/L GIS Bay GISPD#2"
+              },
+              "channel": {
+                "type": "pd",
+                "level": -20,
+                "count": 1000,
+                "max": -20,
+                "offset": 30,
+                "atten": 100,
+                "1minute": 10
+              },
+              "data": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
