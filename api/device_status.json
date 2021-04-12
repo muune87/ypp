@@ -1,45 +1,7 @@
 {
 	"meta":{
         "type" : "device",
-		"column":[40,60],
-		"value": {
-			"diag0": {
-                "title": "정상정상",
-                "bg": "#78d100",
-				"display":"inline-block",
-				"style": "fill:#78d100;"
-            },
-            "diag1": {
-                "title": "경고경고",
-                "bg": "#f5a623",
-				"display":"inline-block",
-				"style": "fill:#f5a623;"
-            },
-            "diag2": {
-                "title": "위험",
-                "bg": "#d0021b",
-				"display":"inline-block",
-				"style": "fill:#d0021b"
-            },
-            "device0": {
-                "title": "정상",
-                "bg": "#46e8ff",
-				"display":"inline-block",
-				"style": "fill:#46e8ff"
-            },
-            "device1": {
-                "title": "이상",
-                "bg": "#ff2c46",
-				"display":"inline-block",
-				"style": "fill:#ff2c46"
-            },
-            "device2": {
-                "title": "이상2",
-                "bg": "#ff2c46",
-				"display":"inline-block",
-				"style": "fill:#ff2c46"
-            }
-		}
+		"column":[40,60]
 	},
 	"data":[
 		{
