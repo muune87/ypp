@@ -1,0 +1,133 @@
+{
+	"data":[
+		{
+			"title":"154kV 종각 S/S",
+            "tree":[
+                {
+                    "title":"154kV GIS",
+                    "url":"../oper/list_hmi.html",
+                    "tree": [
+                        {
+                            "webid": "Id23423",
+                            "deviceTitle": "154kV GIS",
+                            "title":"#1 BUS",
+                            "type":"GISPD",
+                            "tree": []
+                        },
+                        {
+                            "title":"#2 BUS",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"#종로 #1 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"#종로 #2 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"#서대문 #1 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"#서대문 #2 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"마포 #1 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"마포 #2 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"가산 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        }
+                    ]
+                },
+				{
+                    "title":"M.TR",
+                    "alarm":0,
+                    "url":"../oper/list_hmi.html",
+                    "tree": [
+                        {
+                            "title":"#1 M.TR",
+                            "alarm":8,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"#2 M.TR",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"#3 M.TR",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"#4 M.TR",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        }
+                    ]
+                },
+				{
+                    "title":"23kV GIS",
+                    "alarm":0,
+                    "url":"../oper/list_hmi.html",
+                    "tree": [
+                        {
+                            "title":"A #1 T/L",
+                            "alarm":8,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"A #2 T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"B T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        },
+                        {
+                            "title":"C T/L",
+                            "alarm":0,
+                            "url":"../oper/list_hmi.html",
+                            "tree": []
+                        }
+                    ]
+                }
+
+            ]
+		}
+	]
+}
