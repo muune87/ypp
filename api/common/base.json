@@ -7,27 +7,33 @@
     "status":{
       "normal": {
         "title": "정상",
-        "style": "fill:#78d100"
+        "style": "fill:#78d100",
+        "bg": "#78d100"
       },
       "attention": {
         "title": "주의",
-        "style": "fill:#e79432"
+        "style": "fill:#e79432",
+        "bg": "#e79432"
       },
       "error": {
         "title": "이상",
-        "style": "fill:#db4437"
+        "style": "fill:#db4437",
+        "bg": "#db4437"
       },
       "danger": {
         "title": "위험",
-        "style": "fill:#fe0000"
+        "style": "fill:#fe0000",
+        "bg": "#fe0000"
       },
       "netError": {
         "title": "통신이상",
-        "style": "fill:#bfbfbf"
+        "style": "fill:#bfbfbf",
+        "bg": "#bfbfbf"
       },
       "deviceError": {
         "title": "장비이상",
-        "style": "fill:#161920"
+        "style": "fill:#161920",
+        "bg": "#161920"
       }
     }
 }
