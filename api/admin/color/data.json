@@ -1,0 +1,156 @@
+{
+  "prpd": [
+    {
+      "level": "Level 15",
+      "value": 80,
+      "color":"#ff0000ff"
+    },
+    {
+      "level": "Level 14",
+      "value": 70,
+      "color":"#ff4300ff"
+    },
+    {
+      "level": "Level 13",
+      "value": 55,
+      "color":"#ff8800ff"
+    },
+    {
+      "level": "Level 12",
+      "value": 50,
+      "color":"#ffcc00ff"
+    },
+    {
+      "level": "Level 11",
+      "value": 45,
+      "color":"#eeff00ff"
+    },
+    {
+      "level": "Level 10",
+      "value": 40,
+      "color":"#aaff00ff"
+    },
+    {
+      "level": "Level 9",
+      "value": 35,
+      "color":"#65ff00ff"
+    },
+    {
+      "level": "Level 8",
+      "value": 30,
+      "color":"#21ff00ff"
+    },
+    {
+      "level": "Level 7",
+      "value": 25,
+      "color":"#00ff21ff"
+    },
+    {
+      "level": "Level 6",
+      "value": 21,
+      "color":"#00ff65ff"
+    },
+    {
+      "level": "Level 5",
+      "value": 17,
+      "color":"#00ffa9ff"
+    },
+    {
+      "level": "Level 4",
+      "value": 13,
+      "color":"#00ffedff"
+    },
+    {
+      "level": "Level 3",
+      "value": 8,
+      "color":"#00cdffff"
+    },
+    {
+      "level": "Level 2",
+      "value": 5,
+      "color":"#0087ffff"
+    },
+    {
+      "level": "Level 1",
+      "value": 0,
+      "color":"#0043ffff"
+    }
+  ],
+  "prps": [
+    {
+      "level": "Level 15",
+      "value": 0,
+      "color":"#ff0000ff"
+    },
+    {
+      "level": "Level 14",
+      "value": -3,
+      "color":"#ff4300ff"
+    },
+    {
+      "level": "Level 13",
+      "value": -7,
+      "color":"#ff8800ff"
+    },
+    {
+      "level": "Level 12",
+      "value": -11,
+      "color":"#ffcc00ff"
+    },
+    {
+      "level": "Level 11",
+      "value": -15,
+      "color":"#eeff00ff"
+    },
+    {
+      "level": "Level 10",
+      "value": -19,
+      "color":"#aaff00ff"
+    },
+    {
+      "level": "Level 9",
+      "value": -23,
+      "color":"#65ff00ff"
+    },
+    {
+      "level": "Level 8",
+      "value": -27,
+      "color":"#21ff00ff"
+    },
+    {
+      "level": "Level 7",
+      "value": -31,
+      "color":"#00ff21ff"
+    },
+    {
+      "level": "Level 6",
+      "value": -35,
+      "color":"#00ff65ff"
+    },
+    {
+      "level": "Level 5",
+      "value": -39,
+      "color":"#00ffa9ff"
+    },
+    {
+      "level": "Level 4",
+      "value": -43,
+      "color":"#00ffedff"
+    },
+    {
+      "level": "Level 3",
+      "value": -47,
+      "color":"#00cdffff"
+    },
+    {
+      "level": "Level 2",
+      "value": -51,
+      "color":"#0087ffff"
+    },
+    {
+      "level": "Level 1",
+      "value": -55,
+      "color":"#0043ffff"
+    }
+  ]
+}
