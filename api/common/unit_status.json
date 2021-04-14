@@ -1,0 +1,26 @@
+{
+  "status_meta": {
+    "normal" : "정상, 통신 구축",
+    "attention" : "경고",
+    "danger": "위험, 통신 단락",
+    "inactive": "비활성",
+    "unknown": "알수없음",
+    "obstacle": "장애 위치"
+  },
+  "storage": [
+    { "name": "c:", "using": 42.222, "alarm": 80.0, "desc": "268GB중 165GB사용가능", "status": "normal" },
+    { "name": "d:", "using": 8.222, "alarm": 80.0, "desc": "268GB중 165GB사용가능", "status": "normal" }
+  ],
+  "webSessonCount": 6,
+  "duStatus": "normal",
+  "luStatus": "normal",
+  "toHMIComm1Status": "normal",
+  "toHMIComm2Status" : "normal",
+  "processStatus" : "normal",
+  "IEC61850Server" : "normal",
+  "IGDSRuntime" : "normal",
+  "IGDSRuntime" : "normal",
+  "DB" : "normal",
+  "WebFrontend" : "normal",
+  "WebBackend" : "normal"
+}
