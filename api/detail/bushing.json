@@ -1,0 +1,100 @@
+{
+  "data":{
+    "title":"#1 M.Tr - 부싱",
+    "subTitle":"갱신시간: 2020-10-01(1일전), 아세탈린 이상",
+    "range":[0, 100, 10],
+    "diff": [
+      {
+        "title" : "A",
+        "diff" : 5
+      },
+      {
+        "title" : "B",
+        "diff" : -5
+      },
+      {
+        "title" : "C",
+        "diff" : 0
+      }
+    ],
+    "data":[
+      {
+        "type":"spot",
+        "phase":15,
+        "value":35,
+        "title":"기준값 X",
+        "spot":"stroke:none;fill:#c0b2e0;r:5",
+        "label":"background:rgba(192,178,244,0.8);font-size:12px;padding:0 20px;color:#000",
+        "unit":"%"
+      },
+      {
+        "type":"spot",
+        "phase":200,
+        "value":14,
+        "title":"기준값 H",
+        "spot":"stroke:none;fill:#5e8dd9;r:5",
+        "label":"background:rgba(110,221,214,0.8);font-size:12px;padding:0 20px;color:#000",
+        "unit":"%"
+      },
+      {
+        "type":"line",
+        "phase":0,
+        "value":40,
+        "title":"X1",
+        "attr":"stroke:#c0b2e0;stroke-width:3",
+        "spot":"fill:#c0b2e0;r:5",
+        "label":"background:rgba(192,178,244,0.8);font-size:12px;padding:0 10px;color:#000",
+        "unit":"A"
+      },
+      {
+        "type":"line",
+        "phase":10,
+        "value":45,
+        "title":"H1",
+        "attr":"stroke:#5e8dd9;stroke-width:3",
+        "spot":"fill:#5e8dd9;r:5",
+        "label":"background:rgba(110,221,214,0.8);font-size:12px;padding:0 10px;color:#000",
+        "unit":"A"
+      },
+      {
+        "type":"line",
+        "phase":120,
+        "value":20,
+        "title":"X2",
+        "attr":"stroke:#c0b2e0;stroke-width:3",
+        "spot":"fill:#c0b2e0;r:5",
+        "label":"background:rgba(192,178,244,0.8);font-size:12px;padding:0 10px;color:#000",
+        "unit":"A"
+      },
+      {
+        "type":"line",
+        "phase":125,
+        "value":20,
+        "title":"H2",
+        "attr":"stroke:#5e8dd9;stroke-width:3",
+        "spot":"fill:#5e8dd9;r:5",
+        "label":"background:rgba(110,221,214,0.8);font-size:12px;padding:0 10px;color:#000",
+        "unit":"A"
+      },
+      {	"type":"line",
+        "phase":240,
+        "value":25,
+        "title":"X3",
+        "attr":"stroke:#c0b2e0;stroke-width:3",
+        "spot":"fill:#c0b2e0;r:5",
+        "label":"background:rgba(192,178,244,0.8);font-size:12px;padding:0 10px;color:#000",
+        "unit":"A"
+      },
+      {
+        "type":"line",
+        "phase":237,
+        "value":22,
+        "title":"H3",
+        "attr":"stroke:#5e8dd9;stroke-width:3",
+        "spot":"fill:#5e8dd9;r:5",
+        "label":"background:rgba(110,221,214,0.8);font-size:12px;padding:0 10px;color:#000",
+        "unit":"A"
+      }
+    ]
+  }
+}
