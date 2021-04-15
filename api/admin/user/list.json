@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "userGroup": [
+      {
+        "id": "a111",
+        "title": "super"
+      },{
+        "id": "a112",
+        "title": "root"
+      },{
+        "id": "a113",
+        "title": "운영자"
+      },{
+        "id": "a114",
+        "title": "일반 사용자"
+      }
+    ]
+  },
+  "data": [
+    {
+      "id": "a11",
+      "userId": "admin",
+      "name": "김캡코",
+      "businessNumber": "1233",
+      "password": "12345",
+      "userGroup" :"a111"
+    },
+    {
+      "id": "a12",
+      "userId": "user1",
+      "name": "유저1",
+      "businessNumber": "1233",
+      "password": "12345",
+      "userGroup" :"a112"
+    },
+    {
+      "id": "a13",
+      "userId": "user2",
+      "name": "유저2",
+      "businessNumber": "1233",
+      "password": "123445",
+      "userGroup" :"a113"
+    },
+    {
+      "id": "a14",
+      "userId": "user3",
+      "name": "유저3",
+      "businessNumber": "1233",
+      "password": "12345",
+      "userGroup" :"a114"
+    },
+    {
+      "id": "a15",
+      "userId": "user4",
+      "name": "유저4",
+      "businessNumber": "1233",
+      "password": "12345",
+      "userGroup" :"a114"
+    }
+  ]
+}
