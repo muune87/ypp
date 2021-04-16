@@ -1,0 +1,50 @@
+{	
+	"meta":{
+	},
+    "data": {
+      "title": "#1 M.Tr - 유중가스",
+      "subTitle": "갱신시간: 2020-10-01(1일전), 아세틸린 이상",
+      "list":[
+        {
+          "title": "수분H2O (ppm)",
+          "graphTitle": "H2o",
+          "max": 800,
+          "min": 0,
+          "range1": 200,
+          "range2": 700,
+          "value": 21,
+          "diff": 5
+        },
+        {
+          "title": "수소H2 (ppm)",
+          "graphTitle": "H2",
+          "max": 800,
+          "min": 0,
+          "range1": 200,
+          "range2": 700,
+          "value": 12,
+          "diff": -5
+        },
+        {
+          "title": "아세탈렌C2H2 (ppm)",
+          "graphTitle": "C2H2",
+          "max": 150,
+          "min": 0,
+          "range1": 40,
+          "range2": 50,
+          "value": 0,
+          "diff": 0
+        },
+        {
+          "title": "일산화탄소CO (ppm)",
+          "graphTitle": "CO",
+          "max": 700,
+          "min": 0,
+          "range1": 350,
+          "range2": 525,
+          "value": 0,
+          "diff": 0
+        }
+      ]
+    }
+}
