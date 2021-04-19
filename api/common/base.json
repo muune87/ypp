@@ -1,8 +1,10 @@
 {
 	"data":{
 		"logo":"../lib/clip/logo.png",
-		"username":"Hika",
-		"userGroup":"super"
+        "user": {
+          "name": "Hika",
+          "group": "super"
+        }
 	},
     "status":{
       "normal": {
