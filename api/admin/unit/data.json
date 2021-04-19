@@ -1,0 +1,18 @@
+{
+  "storage": [
+    {
+      "name": "c:",
+      "using": 42.222,
+      "alarm": 80.0,
+      "desc": "268GB중 165GB사용가능",
+      "status": 0
+    },
+    {
+      "name": "d:",
+      "using": 8.222,
+      "alarm": 80.0,
+      "desc": "268GB중 165GB사용가능",
+      "status": 0
+    }
+  ]
+}
