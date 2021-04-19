@@ -1,0 +1,379 @@
+{
+	"meta":{
+		"types": [
+			{
+				"title": "GISPD",
+				"type": "gispd",
+				"class": "active",
+				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
+				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
+			},
+			{
+				"title": "CBCM",
+				"type": "cbcm",
+				"class": "active",
+				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
+				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
+			},
+			{
+				"title": "부싱",
+				"type": "bushing",
+				"class": "active",
+				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
+				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
+			},
+			{
+				"title": "M.TrPD",
+				"type": "mtr",
+				"class": "active",
+				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
+				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
+			},
+			{
+				"title": "OLTC",
+				"type": "oltc",
+				"class": "active",
+				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
+				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
+			},
+			{
+				"title": "dga",
+				"type": "dga",
+				"class": "active",
+				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
+				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
+			}
+		],
+		"filter": [{
+			"title": "알람종류",
+			"items": [{
+				"webid": 0,
+				"check": true,
+				"on": "background:#f00;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "전체"
+			}, {
+				"webid": 1,
+				"check": true,
+				"on": "background:#f8c85f;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "진단장비"
+			}, {
+				"webid": 2,
+				"check": true,
+				"on": "background:#f8c85f;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "GISPD"
+			}, {
+				"webid": 3,
+				"check": true,
+				"on": "background:#f8c85f;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "CBCM"
+			}, {
+				"webid": 4,
+				"check": true,
+				"on": "background:#f8c85f;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "MTRPD"
+			}, {
+				"webid": 5,
+				"check": true,
+				"on": "background:#f8c85f;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "DGA"
+			}, {
+				"webid": 6,
+				"check": true,
+				"on": "background:#f8c85f;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "OLTC"
+			}, {
+				"webid": 6,
+				"check": true,
+				"on": "background:#f8c85f;color:#fff;",
+				"off": "background:#fff;color:#282828",
+				"title": "BUSHING"
+			}]
+		}]
+    },
+	"device":[
+        {
+        	"range":[0, 120], 
+            "title":"설비",
+			"unit":"%",
+            "item":[
+            	{"title":"345kV GIS", "style":"margin:0 2px;color:#008ab0;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#008ab0", "link":"", "target":"_self"},
+                {"title":"154kV GIS", "style":"margin:0 2px;color:#00a6bc;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#00a6bc", "link":"", "target":"_self"},
+                {"title":"345kV M.Tr", "style":"margin:0 2px;color:#41c0c7;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#41c0c7", "link":"", "target":"_self"},
+                {"title":"154kV M.Tr", "style":"margin:0 2px;color:#a0ead7;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#a0ead7", "link":"", "target":"_self"}
+            ],
+        	"data":[
+            	["2016-07-21",27,27,27,8],
+                ["2016-07-22",15,15,15,4],
+                ["2016-07-23",6,6,6,2],
+                ["2016-07-24",15,15,15,4],
+                ["2016-07-25",22,20,20,7],
+                ["2016-07-26",15,15,15,4],
+                ["2016-07-27",22,22,22,6],
+                ["2016-07-28",15,15,15,4],
+                ["2016-07-29",27,27,27,8]
+            ]
+        }
+	],
+	"sensor":[
+		{
+			"type":"gispd",
+			"title":"고령S/S 북경남-고령#1T/L GIS Bay GISPD#3",
+			"items":[
+				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
+				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
+				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
+				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"},
+				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"}
+			]
+		},
+		{
+			"type":"mtr",
+			"title":"MTrPD#3",
+			"items":[
+				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
+				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
+				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
+				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"},
+				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"}
+			]
+		},
+		{
+			"type":"sf6",
+			"title":"SF6",
+			"items":[
+				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
+				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
+				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
+				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"},
+				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"}
+			]
+		},
+		{
+			"type": "bushing",
+			"title":"bushing",
+			"items":[
+				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
+				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
+				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
+				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"},
+				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"}
+			]
+		},
+		{
+			"type": "oltc",
+			"title":"oltc",
+			"items":[
+				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
+				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
+				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
+				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"},
+				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"}
+			]
+		},
+		{
+			"type": "dga",
+			"title":"dga",
+			"items":[
+				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
+				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
+				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
+				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"},
+				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험", "url":"dashboard.html"}
+			]
+		}
+	],
+	"logList": [{
+		"webid": 1,
+		"check": false,
+		"date": "16-10-26 12:18:12",
+		"prevDate": "2016-10-26",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-26 09:29:23",
+		"prevDate": "2016-10-26",
+		"device": "진단유닛",
+		"curr": "시스템종료",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-26 09:29:15",
+		"prevDate": "2016-10-26",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-26 09:29:08",
+		"prevDate": "2016-10-26",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-26 09:28:57",
+		"prevDate": "2016-10-26",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": true,
+		"date": "16-10-26 09:28:47",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "저장소70%초과",
+		"info": "[C:\\]용량 경고 : 76%"
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-26 09:28:46",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-24 14:17:42",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-24 00:30:36",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-23 23:30:52",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-23 23:30:11",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-23 23:29:15",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": true,
+		"date": "16-10-23 23:25:00",
+		"prevDate": "2016-10-23",
+		"device": " GLU#1-GISPD1-4_PD",
+		"curr": "PD발생중",
+		"info": "9분 누적"
+	}, {
+		"webid": 1,
+		"check": true,
+		"date": "16-10-23 23:25:00",
+		"prevDate": "2016-10-23",
+		"device": " #1BUS-GISPD1-3_PD",
+		"curr": "PD발생중",
+		"info": "9분 누적"
+	}, {
+		"webid": 1,
+		"check": true,
+		"date": "16-10-23 23:25:00",
+		"prevDate": "2016-10-23",
+		"device": " #1M.Tr 1차-GISPD1-2_PD",
+		"curr": "PD발생중",
+		"info": "9분 누적"
+	}, {
+		"webid": 1,
+		"check": true,
+		"date": "16-10-23 23:25:00",
+		"prevDate": "2016-10-23",
+		"device": " BUS-TIE-GISPD1-1_PD",
+		"curr": "PD발생중",
+		"info": "9분 누적"
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-23 23:12:58",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템시작",
+		"info": ""
+	}, {
+		"webid": 1,
+		"check": false,
+		"date": "16-10-23 23:08:39",
+		"prevDate": "2016-10-23",
+		"device": "진단유닛",
+		"curr": "시스템종료",
+		"info": ""
+	}],
+	"logPages":
+	[{
+		"check": false,
+		"page": 1,
+		"style": "color:#8c9dba"
+	}, {
+		"check": false,
+		"page": 2,
+		"style": "color:#8c9dba"
+	}, {
+		"check": true,
+		"page": 3,
+		"style": "padding:1px 6px;background-color:#4a689a;color:#fff;"
+	}, {
+		"check": false,
+		"page": 4,
+		"style": "color:#8c9dba"
+	}, {
+		"check": false,
+		"page": 5,
+		"style": "color:#8c9dba"
+	}, {
+		"check": false,
+		"page": 6,
+		"style": "color:#8c9dba"
+	}, {
+		"check": false,
+		"page": 7,
+		"style": "color:#8c9dba"
+	}, {
+		"check": false,
+		"page": 8,
+		"style": "color:#8c9dba"
+	}, {
+		"check": false,
+		"page": 9,
+		"style": "color:#8c9dba"
+	}, {
+		"check": false,
+		"page": 10,
+		"style": "color:#8c9dba"
+	}]
+}
