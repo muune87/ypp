@@ -15,8 +15,8 @@
                 {
                     "webid":"gis0",
                     "@tmpl":"groupInner",
-                    "style":"border:solid 2px #86b5ff;",
-					"color":"#86b5ff",
+                    "style":"border:solid 2px #008000;",
+					"color":"#008000",
 					"title":"345kV GIS",					
 					"link":"layout.html",
 					"target":"_self",
@@ -183,8 +183,8 @@
                 {
                     "webid":"gis1",
                     "@tmpl":"groupInner",
-                    "style":"border:solid 2px #86b5ff;",
-					"color":"#86b5ff",
+                    "style":"border:solid 2px #008000;",
+					"color":"#008000",
                     "title":"154kV GIS",
 					"link":"",
 					"target":"_blank",
@@ -361,8 +361,8 @@
                 {
                     "webid":"mtr0",
                     "@tmpl":"groupInner",
-                    "style":"border:solid 2px #71ffc3;",
-					"color":"#71ffc3",
+                    "style":"border:solid 2px #3e4348;",
+					"color":"#3e4348",
                     "title":"345kV M.Tr",
 					"link":"",
 					"target":"_blank",
