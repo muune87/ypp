@@ -15,7 +15,7 @@
         {
           "webid": "lu0",
           "@tmpl": "luGroupInner",
-          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "style": "border:solid 2px #c8cfd7;color:#758095",
           "title": "LU101",
           "alarm": 0,
           "status": "normal",
@@ -250,7 +250,7 @@
                 "count": 1000,
                 "max": -20,
                 "offset": 30,
-                "atten": 100,
+                "atten": 100, 
                 "1minute": 10
               },
               "data": []
@@ -260,7 +260,7 @@
         {
           "webid": "lu2",
           "@tmpl": "luGroupInner",
-          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "style": "border:solid 2px #c8cfd7;color:#758095",
           "title": "LU102",
           "alarm": 6,
           "status": "attention",
@@ -505,7 +505,7 @@
         {
           "webid": "lu3",
           "@tmpl": "luGroupInner",
-          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "style": "border:solid 2px #c8cfd7;color:#758095",
           "title": "LU103",
           "alarm": 6,
           "status": "attention",
@@ -750,7 +750,7 @@
         {
           "webid": "lu4",
           "@tmpl": "luGroupInner",
-          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "style": "border:solid 2px #c8cfd7;color:#758095",
           "title": "LU104",
           "alarm": 6,
           "status": "normal",
@@ -995,7 +995,7 @@
         {
           "webid": "lu5",
           "@tmpl": "luGroupInner",
-          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "style": "border:solid 2px #c8cfd7;color:#758095",
           "title": "LU105",
           "alarm": 6,
           "status": "normal",
@@ -1240,7 +1240,7 @@
         {
           "webid": "lu6",
           "@tmpl": "luGroupInner",
-          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "style": "border:solid 2px #c8cfd7;color:#758095",
           "title": "LU106",
           "alarm": 6,
           "status": "normal",
@@ -1485,7 +1485,7 @@
         {
           "webid": "lu7",
           "@tmpl": "luGroupInner",
-          "style": "border:solid 2px #b4c9ee;color:#b4c9ee",
+          "style": "border:solid 2px #c8cfd7;color:#758095",
           "title": "LU107",
           "alarm": 6,
           "status": "normal",
