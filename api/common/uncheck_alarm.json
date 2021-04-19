@@ -1,5 +1,25 @@
 {
 	"meta":{
+    	"term":["2016-07-21 00:00:00", "2016-07-29 00:00:00"],
+		"now":"2016-07-21",
+		"date":[
+			{"icon":"fa fa-circle", "html":"07/18", "date":"2016-07-18"},
+			{"icon":"fa fa-circle", "html":"07/19", "date":"2016-07-19"},
+			{"icon":"fa fa-circle", "html":"07/20", "date":"2016-07-20"},
+			{"icon":"fa fa-circle-o", "html":"07/21", "date":"2016-07-21"},
+			{"icon":"fa fa-circle", "html":"07/22", "date":"2016-07-22"},
+			{"icon":"fa fa-circle", "html":"07/23", "date":"2016-07-23"},
+			{"icon":"fa fa-circle", "html":"07/24", "date":"2016-07-24"},
+			{"icon":"fa fa-circle", "html":"07/18", "date":"2016-07-25"},
+			{"icon":"fa fa-circle", "html":"07/19", "date":"2016-07-26"},
+			{"icon":"fa fa-circle", "html":"07/20", "date":"2016-07-27"},
+			{"icon":"fa fa-circle", "html":"07/21", "date":"2016-07-28"},
+			{"icon":"fa fa-circle", "html":"07/22", "date":"2016-07-29"},
+			{"icon":"fa fa-circle", "html":"07/23", "date":"2016-07-30"},
+			{"icon":"fa fa-circle", "html":"07/24", "date":"2016-07-31"}
+		],
+		"tick":"day",
+		"format":"%m/%d",
 		"types": [
 			{
 				"title": "GISPD",
@@ -11,6 +31,13 @@
 			{
 				"title": "CBCM",
 				"type": "cbcm",
+				"class": "active",
+				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
+				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
+			},
+			{
+				"title": "SF6",
+				"type": "sf6",
 				"class": "active",
 				"on": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#f8c85f;color:#fff;",
 				"off": "line-height:22px;display:inline-block;margin-left:2px;padding:0 8px;cursor:pointer;background:#fff;color:#282828"
