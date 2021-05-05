@@ -1077,17 +1077,16 @@
 			"type": "cbcm",
 			"graph":"label",
 			"title":"북경남-고령#1T/L GIS Bay1 CBCM #1",
-			"pos": [421, 158, 390, 177],
+			"pos": [421, 158, 400, 172],
 			"status": "normal",
-			"labelStyle":"background:rgba(255,255,255,0.5)",
+			"labelStyle":"font-size:18px;background:rgba(255,255,255,0.5)",
 			"data": "CBCM"
         },
         {
             "webid": "id",
             "graph":"image",
             "pos": [1700, 540],
-            "width": 94,
-            "height": 99,
+            "widthHeight": [94, 99],
             "labelStyle":"",
             "data": "/lib/clip/imageSample.png"
         },
@@ -1095,14 +1094,14 @@
             "webid": "id",
 			"graph":"labelText",
             "pos": [1726, 553],
-			"labelStyle":"color:#008000",
+			"labelStyle":"font-size:20px;color:#008000",
             "data": "20.00"
         },
         {
             "webid": "id",
             "graph":"labelText",
             "pos": [1726, 594],
-            "labelStyle":"color:#008000",
+            "labelStyle":"font-size:20px;color:#008000",
             "data": "15.9"
         }
     ]
