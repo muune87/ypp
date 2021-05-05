@@ -16,13 +16,33 @@
   "data": [
     {
       "id": "sd23423",
+      "term": "2020-10-26 12:18:12 ~ 2021-01-30 12:18:12",
+      "title": "이벤트 이름1",
+      "max": -30.12,
+      "avg": -12.32,
+      "pps": 44,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },
+    {
+      "id": "sd23423",
       "term": "2020-10-26 12:18:12 ~ 2021-01-26 12:18:12",
-      "title": "이벤트 이름",
+      "title": "이벤트 이름2",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },
+    {
+      "id": "sd23423",
+      "term": "2020-10-26 12:18:12 ~ 2021-01-26 12:18:12",
+      "title": "이벤트 이름3",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -30,9 +50,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -40,9 +60,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -50,9 +70,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -60,9 +80,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -70,9 +90,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -80,9 +100,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -90,9 +110,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -100,9 +120,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -110,9 +130,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -120,9 +140,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -130,9 +150,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     },
     {
       "id": "sd23423",
@@ -140,29 +160,9 @@
       "title": "이벤트 이름",
       "max": -30,
       "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
-    },
-    {
-      "id": "sd23423",
-      "term": "2020-10-26 12:18:12 ~ 2021-01-26 12:18:12",
-      "title": "이벤트 이름",
-      "max": -30,
-      "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
-    },
-    {
-      "id": "sd23423",
-      "term": "2020-10-26 12:18:12 ~ 2021-01-26 12:18:12",
-      "title": "이벤트 이름",
-      "max": -30,
-      "avg": -14.32,
-      "PPS": 40,
-      "PRPD": "../../lib/clip/pd_sample.png",
-      "PRPD_TOP": "../../lib/clip/pd_top_sample.png"
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
     }
   ]
 }
