@@ -1,6 +1,6 @@
 {
 	"meta":{
-    	"term":["2016-07-21 00:00:00", "2016-07-29 00:00:00"],
+		"term":["2016-07-21 00:00:00", "2016-07-29 00:00:00"],
 		"now":"2016-07-21",
 		"date":[
 			{"icon":"fa fa-circle", "html":"07/18", "date":"2016-07-18"},
@@ -123,30 +123,30 @@
 				"title": "BUSHING"
 			}]
 		}]
-    },
+	},
 	"device":[
-        {
-        	"range":[0, 120], 
-            "title":"설비",
+		{
+			"range":[0, 120],
+			"title":"설비",
 			"unit":"%",
-            "item":[
-            	{"title":"345kV GIS", "style":"margin:0 2px;color:#008ab0;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#008ab0", "link":"", "target":"_self"},
-                {"title":"154kV GIS", "style":"margin:0 2px;color:#00a6bc;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#00a6bc", "link":"", "target":"_self"},
-                {"title":"345kV M.Tr", "style":"margin:0 2px;color:#41c0c7;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#41c0c7", "link":"", "target":"_self"},
-                {"title":"154kV M.Tr", "style":"margin:0 2px;color:#a0ead7;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#a0ead7", "link":"", "target":"_self"}
-            ],
-        	"data":[
-            	["2016-07-21",27,27,27,8],
-                ["2016-07-22",15,15,15,4],
-                ["2016-07-23",6,6,6,2],
-                ["2016-07-24",15,15,15,4],
-                ["2016-07-25",22,20,20,7],
-                ["2016-07-26",15,15,15,4],
-                ["2016-07-27",22,22,22,6],
-                ["2016-07-28",15,15,15,4],
-                ["2016-07-29",27,27,27,8]
-            ]
-        }
+			"item":[
+				{"title":"345kV GIS", "style":"margin:0 2px;color:#008ab0;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#008ab0", "link":"", "target":"_self"},
+				{"title":"154kV GIS", "style":"margin:0 2px;color:#00a6bc;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#00a6bc", "link":"", "target":"_self"},
+				{"title":"345kV M.Tr", "style":"margin:0 2px;color:#41c0c7;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#41c0c7", "link":"", "target":"_self"},
+				{"title":"154kV M.Tr", "style":"margin:0 2px;color:#a0ead7;cursor:pointer", "class":"fa fa-square", "on":"fa fa-square", "off":"fa fa-square-o", "attr":"fill:#a0ead7", "link":"", "target":"_self"}
+			],
+			"data":[
+				["2016-07-21",27,27,27,8],
+				["2016-07-22",15,15,15,4],
+				["2016-07-23",6,6,6,2],
+				["2016-07-24",15,15,15,4],
+				["2016-07-25",22,20,20,7],
+				["2016-07-26",15,15,15,4],
+				["2016-07-27",22,22,22,6],
+				["2016-07-28",15,15,15,4],
+				["2016-07-29",27,27,27,8]
+			]
+		}
 	],
 	"sensor":[
 		{
@@ -328,38 +328,6 @@
 		"device": " #1BUS-GISPD1-3_PD",
 		"curr": "PD발생중",
 		"info": "9분 누적"
-	}, {
-		"webid": 1,
-		"check": true,
-		"date": "16-10-23 23:25:00",
-		"prevDate": "2016-10-23",
-		"device": " #1M.Tr 1차-GISPD1-2_PD",
-		"curr": "PD발생중",
-		"info": "9분 누적"
-	}, {
-		"webid": 1,
-		"check": true,
-		"date": "16-10-23 23:25:00",
-		"prevDate": "2016-10-23",
-		"device": " BUS-TIE-GISPD1-1_PD",
-		"curr": "PD발생중",
-		"info": "9분 누적"
-	}, {
-		"webid": 1,
-		"check": false,
-		"date": "16-10-23 23:12:58",
-		"prevDate": "2016-10-23",
-		"device": "진단유닛",
-		"curr": "시스템시작",
-		"info": ""
-	}, {
-		"webid": 1,
-		"check": false,
-		"date": "16-10-23 23:08:39",
-		"prevDate": "2016-10-23",
-		"device": "진단유닛",
-		"curr": "시스템종료",
-		"info": ""
 	}],
 	"logPages":
 	[{
