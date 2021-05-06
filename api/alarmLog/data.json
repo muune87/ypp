@@ -328,38 +328,6 @@
 		"device": " #1BUS-GISPD1-3_PD",
 		"curr": "PD발생중",
 		"info": "9분 누적"
-	}, {
-		"webid": 1,
-		"check": true,
-		"date": "16-10-23 23:25:00",
-		"prevDate": "2016-10-23",
-		"device": " #1M.Tr 1차-GISPD1-2_PD",
-		"curr": "PD발생중",
-		"info": "9분 누적"
-	}, {
-		"webid": 1,
-		"check": true,
-		"date": "16-10-23 23:25:00",
-		"prevDate": "2016-10-23",
-		"device": " BUS-TIE-GISPD1-1_PD",
-		"curr": "PD발생중",
-		"info": "9분 누적"
-	}, {
-		"webid": 1,
-		"check": false,
-		"date": "16-10-23 23:12:58",
-		"prevDate": "2016-10-23",
-		"device": "진단유닛",
-		"curr": "시스템시작",
-		"info": ""
-	}, {
-		"webid": 1,
-		"check": false,
-		"date": "16-10-23 23:08:39",
-		"prevDate": "2016-10-23",
-		"device": "진단유닛",
-		"curr": "시스템종료",
-		"info": ""
 	}],
 	"logPages":
 	[{
