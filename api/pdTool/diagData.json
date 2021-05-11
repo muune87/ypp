@@ -1,0 +1,168 @@
+{
+  "page": {
+    "total": 12,
+    "per_page": 10,
+    "current_page": 1,
+    "from": 1,
+    "to": 10
+  },
+  "meta": {
+    "page": 1,
+    "sensors": "s12,s34",
+    "tick": "days",
+    "now": "2021-01-02 13:00",
+    "pdResult": 2,
+    "pdPart": 3,
+    "pdPartPer": 21,
+    "library": "gispd"
+  },
+  "release": [
+    {
+      "id": "gis000",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비1",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "gis001",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비2",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "gis002",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비3",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "s4",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비4",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "s5",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비5",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "s6",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비6",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "s7",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비7",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "s8",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비8",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "s9",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비9",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    },{
+      "id": "s10",
+      "regdate": "2020-10-26 12:18:12",
+      "device": "설비10",
+      "type": "gispd",
+      "status": "normal",
+      "max": -30,
+      "avg": -14.32,
+      "pps": 40,
+      "prpd": "../../lib/clip/pd_sample.png",
+      "prpd_top": "../../lib/clip/pd_top_sample.png"
+    }
+  ],
+"draft": [
+{
+"id": "gis000",
+"regdate": "2020-10-26 12:18:12",
+"device": "설비d1",
+"type": "gispd",
+"status": "normal",
+"max": -30,
+"avg": -14.32,
+"pps": 40,
+"prpd": "../../lib/clip/pd_sample.png",
+"prpd_top": "../../lib/clip/pd_top_sample.png"
+},{
+"id": "gis001",
+"regdate": "2020-10-26 12:18:12",
+"device": "설비d2",
+"type": "gispd",
+"status": "normal",
+"max": -30,
+"avg": -14.32,
+"pps": 40,
+"prpd": "../../lib/clip/pd_sample.png",
+"prpd_top": "../../lib/clip/pd_top_sample.png"
+},{
+"id": "gis002",
+"regdate": "2020-10-26 12:18:12",
+"device": "설비d3",
+"type": "gispd",
+"status": "normal",
+"max": -30,
+"avg": -14.32,
+"pps": 40,
+"prpd": "../../lib/clip/pd_sample.png",
+"prpd_top": "../../lib/clip/pd_top_sample.png"
+}
+]
+}
