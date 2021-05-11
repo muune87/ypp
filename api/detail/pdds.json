@@ -1,0 +1,40 @@
+{
+	"meta":{
+		"term":["2016-07-26 06:00:00", "2016-07-26 07:00:00"],
+		"tick":"minute",
+		"format":"%d %H:%M:%S",
+		"seperator":"second",
+		"search":"Y-m-d H:i:s",
+		"url":[
+            "/api/totalDiagnosis/data.php",
+            "/api/totalDiagnosis/data_hour.php",
+            "/api/totalDiagnosis/data_minute.php"
+		]
+	},	
+	"data":[
+		{
+			"webid":"pd1203",
+			"title":"7100Bay PD#1, MAX: -10dbm, AVR: -20dbm, 코로나 (C10,V20,P50,N30,F10)",
+			"label":"color:#fff",
+			"src":"/api/totalDiagnosis/pd0.png"
+		},
+		{
+			"webid":"pd1204",
+			"title":"7100Bay PD#1, MAX: -10dbm, AVR: -20dbm, 코로나 (C10,V20,P50,N30,F10)",
+			"label":"color:#fff",
+			"src":"/api/totalDiagnosis/pd1.png"
+		},
+		{
+			"webid":"pd1204",
+			"title":"7100Bay PD#1, MAX: -10dbm, AVR: -20dbm, 코로나 (C10,V20,P50,N30,F10)",
+			"label":"color:#fff",
+			"src":"/api/totalDiagnosis/pd2.png"
+		},
+		{
+			"webid":"pd1204",
+			"title":"7100Bay PD#1, MAX: -10dbm, AVR: -20dbm, 코로나 (C10,V20,P50,N30,F10)",
+			"label":"color:#fff",
+			"src":"/api/totalDiagnosis/pd2.png"
+		}
+	]
+}
