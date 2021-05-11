@@ -14,9 +14,10 @@
     "pdResult": 2,
     "pdPart": 3,
     "pdPartPer": 21,
-    "library": "gispd"
+    "library": "gispd",
+    "type": "release"
   },
-  "release": [
+  "data": [
     {
       "id": "gis000",
       "regdate": "2020-10-26 12:18:12",
@@ -128,41 +129,5 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     }
-  ],
-"draft": [
-{
-"id": "gis000",
-"regdate": "2020-10-26 12:18:12",
-"device": "설비d1",
-"type": "gispd",
-"status": "normal",
-"max": -30,
-"avg": -14.32,
-"pps": 40,
-"prpd": "../../lib/clip/pd_sample.png",
-"prpd_top": "../../lib/clip/pd_top_sample.png"
-},{
-"id": "gis001",
-"regdate": "2020-10-26 12:18:12",
-"device": "설비d2",
-"type": "gispd",
-"status": "normal",
-"max": -30,
-"avg": -14.32,
-"pps": 40,
-"prpd": "../../lib/clip/pd_sample.png",
-"prpd_top": "../../lib/clip/pd_top_sample.png"
-},{
-"id": "gis002",
-"regdate": "2020-10-26 12:18:12",
-"device": "설비d3",
-"type": "gispd",
-"status": "normal",
-"max": -30,
-"avg": -14.32,
-"pps": 40,
-"prpd": "../../lib/clip/pd_sample.png",
-"prpd_top": "../../lib/clip/pd_top_sample.png"
-}
-]
+  ]
 }
