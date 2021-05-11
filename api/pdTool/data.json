@@ -7,15 +7,17 @@
     "to": 10
   },
   "meta": {
-    "term": [
-      "2016-07-21 00:00:00",
-      "2016-07-29 00:00:00"
-    ],
-    "now": "2016-07-21"
+    "page": 1,
+    "sensors": "s12,s34",
+    "tick": "days",
+    "now": "2021-01-02 13:00",
+    "pdResult": 2,
+    "pdPart": 3,
+    "pdPartPer": 21
   },
   "data": [
     {
-      "id": "s1",
+      "id": "gis000",
       "regdate": "2020-10-26 12:18:12",
       "device": "설비1",
       "type": "gispd",
@@ -26,7 +28,7 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s2",
+      "id": "gis001",
       "regdate": "2020-10-26 12:18:12",
       "device": "설비2",
       "type": "gispd",
@@ -37,7 +39,7 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s3",
+      "id": "gis002",
       "regdate": "2020-10-26 12:18:12",
       "device": "설비3",
       "type": "gispd",
