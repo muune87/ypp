@@ -40,20 +40,20 @@
 				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
 			]
 		},
+{
+"type":"gispd",
+"title":"고령S/S 북경남-고령#1T/L GIS Bay GISPD#2",
+"items":[
+{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
+{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
+{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
+{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
+{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
+]
+},
 		{
 			"type":"mtr",
 			"title":"MTrPD#3",
-			"items":[
-				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
-				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
-				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
-				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
-				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
-			]
-		},
-		{
-			"type":"sf6",
-			"title":"SF6",
 			"items":[
 				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
 				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
