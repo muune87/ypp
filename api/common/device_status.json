@@ -17,9 +17,7 @@
                     "@tmpl":"groupInner",
                     "style":"border:solid 2px #008000;",
 					"color":"#008000",
-					"title":"345kV GIS",					
-					"link":"layout.html",
-					"target":"_self",
+					"title":"345kV GIS",
                     "alarm":0,
                     "data":[
                         {
@@ -27,8 +25,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"북경남-고령 #1T/L GIS Bay",
-							"link":"device.html",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -66,8 +62,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"북경남-고령 #2T/L GIS Bay",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -105,8 +99,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"고령-의령 #1T/L GIS Bay",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -144,8 +136,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"고령-의령 #2T/L GIS Bay",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -186,8 +176,6 @@
                     "style":"border:solid 2px #008000;",
 					"color":"#008000",
                     "title":"154kV GIS",
-					"link":"",
-					"target":"_blank",
                     "alarm":6,
                     "data":[
                         {
@@ -195,8 +183,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"북경남-고령 #1T/L GIS Bay",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -234,8 +220,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"북경남-고령 #2T/L GIS Bay",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -273,8 +257,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"고령-의령 #1T/L GIS Bay",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -312,8 +294,6 @@
                             "@tmpl":"groupColumn",
                     		"style":"",
                             "title":"고령-의령 #2T/L GIS Bay",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -364,8 +344,6 @@
                     "style":"border:solid 2px #3e4348;",
 					"color":"#3e4348",
                     "title":"345kV M.Tr",
-					"link":"",
-					"target":"_blank",
                     "alarm":0,
                     "data":[
                         {
@@ -373,8 +351,6 @@
                             "@tmpl":"groupColumn2",
                     		"style":"",
                             "title":"#1 M.Tr A",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -421,8 +397,6 @@
                             "@tmpl":"groupColumn2",
                     		"style":"",
                             "title":"#1 M.Tr A",
-							"link":"device.html",
-							"target":"_self",
                             "alarm":0,
                             "data":[
                                 {
@@ -469,8 +443,6 @@
                             "@tmpl":"groupColumn2",
                     		"style":"",
                             "title":"#1 M.Tr A",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -517,8 +489,6 @@
                             "@tmpl":"groupColumn2",
                     		"style":"",
                             "title":"#1 M.Tr A",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -565,8 +535,6 @@
                             "@tmpl":"groupColumn2",
                     		"style":"",
                             "title":"#1 M.Tr A",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
@@ -613,8 +581,6 @@
                             "@tmpl":"groupColumn2",
                     		"style":"",
                             "title":"#1 M.Tr A",
-							"link":"",
-							"target":"_blank",
                             "alarm":0,
                             "data":[
                                 {
