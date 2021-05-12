@@ -9,7 +9,7 @@
   "meta": {
     "page": 1,
     "sensors": "s12,s34",
-    "tick": "days",
+    "tick": "day",
     "now": "2021-01-02 13:00",
     "pdResult": 2,
     "pdPart": 3,
