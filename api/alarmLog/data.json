@@ -30,7 +30,6 @@
 	],
 	"sensor":[
 		{
-			"type":"gispd",
 			"title":"고령S/S 북경남-고령#1T/L GIS Bay GISPD#3",
 			"items":[
 				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
@@ -41,7 +40,6 @@
 			]
 		},
 {
-"type":"gispd",
 "title":"고령S/S 북경남-고령#1T/L GIS Bay GISPD#2",
 "items":[
 {"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
@@ -52,7 +50,6 @@
 ]
 },
 		{
-			"type":"mtr",
 			"title":"MTrPD#3",
 			"items":[
 				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
@@ -63,7 +60,6 @@
 			]
 		},
 		{
-			"type": "bushing",
 			"title":"bushing",
 			"items":[
 				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
@@ -74,7 +70,6 @@
 			]
 		},
 		{
-			"type": "oltc",
 			"title":"oltc",
 			"items":[
 				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
@@ -85,7 +80,6 @@
 			]
 		},
 		{
-			"type": "dga",
 			"title":"dga",
 			"items":[
 				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
