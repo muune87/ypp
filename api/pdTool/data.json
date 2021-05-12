@@ -17,7 +17,8 @@
   },
   "data": [
     {
-      "id": "gis000",
+"id": 1,
+"sensorid": 17,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비1",
       "type": "gispd",
@@ -28,7 +29,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "gis001",
+"id": 2,
+"sensorid": 6,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비2",
       "type": "gispd",
@@ -39,7 +41,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "gis002",
+"id": 3,
+"sensorid": 8,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비3",
       "type": "gispd",
@@ -50,7 +53,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s4",
+"id": 4,
+"sensorid": 9,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비4",
       "type": "gispd",
@@ -61,7 +65,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s5",
+"id": 5,
+"sensorid": 14,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비5",
       "type": "gispd",
@@ -72,7 +77,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s6",
+"id": 6,
+"sensorid": 19,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비6",
       "type": "gispd",
@@ -83,7 +89,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s7",
+"id": 7,
+"sensorid": 20,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비7",
       "type": "gispd",
@@ -94,7 +101,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s8",
+"id": 8,
+"sensorid": 21,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비8",
       "type": "gispd",
@@ -105,7 +113,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s9",
+"id": 9,
+"sensorid": 21,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비9",
       "type": "gispd",
@@ -116,7 +125,8 @@
       "prpd": "../../lib/clip/pd_sample.png",
       "prpd_top": "../../lib/clip/pd_top_sample.png"
     },{
-      "id": "s10",
+"id": 10,
+"sensorid": 22,
       "regdate": "2020-10-26 12:18:12",
       "device": "설비10",
       "type": "gispd",
