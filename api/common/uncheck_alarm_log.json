@@ -6,103 +6,129 @@
 "from": 1,
 "to": 10
 },
-"data": [{
+"data": [
+{
 "webid": 1,
 "check": false,
 "date": "16-10-26 12:18:12",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
 "check": false,
 "date": "16-10-26 09:29:23",
 "device": "진단유닛",
 "curr": "시스템종료",
 "info": ""
-}, {
+},
+{
 "webid": 1,
 "check": false,
 "date": "16-10-26 09:29:15",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-26 09:29:08",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-26 09:28:57",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": true,
 "date": "16-10-26 09:28:47",
 "device": "진단유닛",
 "curr": "저장소70%초과",
 "info": "[C:\\]용량 경고 : 76%"
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-26 09:28:46",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-24 14:17:42",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-24 00:30:36",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-23 23:30:52",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-23 23:30:11",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": false,
 "date": "16-10-23 23:29:15",
 "device": "진단유닛",
 "curr": "시스템시작",
 "info": ""
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": true,
 "date": "16-10-23 23:25:00",
 "device": " GLU#1-GISPD1-4_PD",
 "curr": "PD발생중",
 "info": "9분 누적"
-}, {
+},
+{
 "webid": 1,
+"sensorid": 1,
 "check": true,
 "date": "16-10-23 23:25:00",
 "device": " #1BUS-GISPD1-3_PD",
 "curr": "PD발생중",
 "info": "9분 누적"
-}]
+}
+]
 }
