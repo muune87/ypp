@@ -1,127 +1,155 @@
 {
 	"data":[
 		{
+            "id": 1,
 			"title":"154kV 종각 S/S",
+            "type": "root",
             "tree":[
                 {
+                    "id": 2,
                     "title":"154kV GIS",
-                    "url":"../oper/list_hmi.html",
+                    "type": "sensorGroup",
                     "tree": [
                         {
-                            "webid": "Id23423",
-                            "deviceTitle": "154kV GIS",
+                            "id": 3,
+                            "deviceTitle": "#1 BUS",
                             "title":"#1 BUS",
-                            "type":"GISPD",
-                            "tree": []
+                            "type":"device",
+                            "tree": [
+                                {
+                                    "id": 4,
+                                    "deviceTitle": "#1 BUS",
+                                    "title":"#PD#1",
+                                    "type":"GISPD",
+                                    "tree": []
+                                }
+                            ]
                         },
                         {
+                            "id": 5,
+                            "deviceTitle": "#2 BUS",
                             "title":"#2 BUS",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
-                            "tree": []
+                            "type":"device",
+                            "tree": [
+                                {
+                                    "id": 6,
+                                    "deviceTitle": "#2 BUS",
+                                    "title":"#PD#2",
+                                    "type":"GISPD",
+                                    "tree": []
+                                }
+                            ]
                         },
                         {
+                            "id": 7,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"#종로 #1 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         },
                         {
+                            "id": 8,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"#종로 #2 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         },
                         {
-                            "title":"#서대문 #1 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "id": 9,
+                            "deviceTitle": "#종로 #1 T/L",
+                            "title":"#종로 #2 T/L",
+                            "type":"device",
                             "tree": []
                         },
                         {
-                            "title":"#서대문 #2 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
-                            "tree": []
-                        },
-                        {
+                            "id": 10,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"마포 #1 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         },
                         {
+                            "id": 11,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"마포 #2 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         },
                         {
+                            "id": 12,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"가산 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         }
                     ]
                 },
 				{
+                    "id": 13,
+                    "type": "sensorGroup",
                     "title":"M.TR",
-                    "alarm":0,
-                    "url":"../oper/list_hmi.html",
                     "tree": [
                         {
+                            "id": 14,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"#1 M.TR",
-                            "alarm":8,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         },
                         {
+                            "id": 15,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"#2 M.TR",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         },
                         {
+                            "id": 16,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"#3 M.TR",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         },
                         {
+                            "id": 17,
+                            "deviceTitle": "#종로 #1 T/L",
                             "title":"#4 M.TR",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "type":"device",
                             "tree": []
                         }
                     ]
                 },
 				{
+                    "id": 18,
+                    "type": "sensorGroup",
                     "title":"23kV GIS",
-                    "alarm":0,
-                    "url":"../oper/list_hmi.html",
                     "tree": [
                         {
-                            "title":"A #1 T/L",
-                            "alarm":8,
-                            "url":"../oper/list_hmi.html",
+                            "id": 19,
+                            "deviceTitle": "23kV GIS",
+                            "title":"#북경남-고령#1T/L GIS Bay1",
+                            "type":"device",
                             "tree": []
                         },
                         {
-                            "title":"A #2 T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "id": 20,
+                            "deviceTitle": "23kV GIS",
+                            "title":"#북경남-고령#1T/L GIS Bay2",
+                            "type":"device",
                             "tree": []
                         },
                         {
-                            "title":"B T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "id": 21,
+                            "deviceTitle": "23kV GIS",
+                            "title":"#북경남-고령#1T/L GIS Bay1 cbcm #1",
+                            "type":"device",
                             "tree": []
                         },
                         {
-                            "title":"C T/L",
-                            "alarm":0,
-                            "url":"../oper/list_hmi.html",
+                            "id": 22,
+                            "deviceTitle": "23kV GIS",
+                            "title":"#북경남-고령#1T/L GIS Bay1",
+                            "type":"device",
                             "tree": []
                         }
                     ]
