@@ -1,93 +1,349 @@
 {
-	"deviceMeta":{
-    	"term":["2016-07-21 00:00:00", "2016-07-29 00:00:00"],
-		"tick":"day",
-		"format":"%m/%d"
-    },
-	"device":[
-        {
-        	"range":[0, 120], 
-            "title":"설비",
-			"unit":"%",
-            "item":[
-            	{"title":"345kV GIS", "style":"margin:0 2px;color:#008ab0;cursor:pointer", "class":"on", "on":"on", "off":"off", "attr":"fill:#008ab0"},
-                {"title":"154kV GIS", "style":"margin:0 2px;color:#00a6bc;cursor:pointer", "class":"on", "on":"on", "off":"off", "attr":"fill:#00a6bc"},
-                {"title":"345kV M.Tr", "style":"margin:0 2px;color:#41c0c7;cursor:pointer", "class":"on", "on":"on", "off":"off", "attr":"fill:#41c0c7"},
-                {"title":"154kV M.Tr", "style":"margin:0 2px;color:#a0ead7;cursor:pointer", "class":"on", "on":"on", "off":"off", "attr":"fill:#a0ead7"}
-            ],
-        	"data":[
-            	["2016-07-21",27,27,27,8],
-                ["2016-07-22",15,15,15,4],
-                ["2016-07-23",6,6,6,2],
-                ["2016-07-24",15,15,15,4],
-                ["2016-07-25",22,20,20,7],
-                ["2016-07-26",15,15,15,4],
-                ["2016-07-27",22,22,22,6],
-                ["2016-07-28",15,15,15,4],
-                ["2016-07-29",27,27,27,8]
-            ]
-        }
-	],
-	"sensor":[
-		{
-			"title":"고령S/S 북경남-고령#1T/L GIS Bay GISPD#3",
-			"items":[
-				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
-				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
-				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
-				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
-				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
-			]
-		},
+"deviceMeta": {
+"term": [
+"2016-07-21 00:00:00",
+"2016-07-29 00:00:00"
+],
+"tick": "day",
+"format": "%m/%d"
+},
+"device": [
 {
-"title":"고령S/S 북경남-고령#1T/L GIS Bay GISPD#2",
-"items":[
-{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
-{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
-{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
-{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
-{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
+"range": [
+0,
+120
+],
+"title": "설비",
+"unit": "%",
+"item": [
+{
+"title": "345kV GIS",
+"style": "margin:0 2px;color:#008ab0;cursor:pointer",
+"class": "on",
+"on": "on",
+"off": "off",
+"attr": "fill:#008ab0"
+},
+{
+"title": "154kV GIS",
+"style": "margin:0 2px;color:#00a6bc;cursor:pointer",
+"class": "on",
+"on": "on",
+"off": "off",
+"attr": "fill:#00a6bc"
+},
+{
+"title": "345kV M.Tr",
+"style": "margin:0 2px;color:#41c0c7;cursor:pointer",
+"class": "on",
+"on": "on",
+"off": "off",
+"attr": "fill:#41c0c7"
+},
+{
+"title": "154kV M.Tr",
+"style": "margin:0 2px;color:#a0ead7;cursor:pointer",
+"class": "on",
+"on": "on",
+"off": "off",
+"attr": "fill:#a0ead7"
+}
+],
+"data": [
+[
+"2016-07-21",
+27,
+27,
+27,
+8
+],
+[
+"2016-07-22",
+15,
+15,
+15,
+4
+],
+[
+"2016-07-23",
+6,
+6,
+6,
+2
+],
+[
+"2016-07-24",
+15,
+15,
+15,
+4
+],
+[
+"2016-07-25",
+22,
+20,
+20,
+7
+],
+[
+"2016-07-26",
+15,
+15,
+15,
+4
+],
+[
+"2016-07-27",
+22,
+22,
+22,
+6
+],
+[
+"2016-07-28",
+15,
+15,
+15,
+4
+],
+[
+"2016-07-29",
+27,
+27,
+27,
+8
+]
+]
+}
+],
+"sensor": [
+{
+"sensorid": 6,
+"title": "고령S/S 북경남-고령#1T/L GIS Bay GISPD#3",
+"items": [
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "0",
+"color": "#7ad122"
+},
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "30%",
+"color": "#f5a623"
+},
+{
+"@tmpl": "timelineLine",
+"width": "40%",
+"left": "60%",
+"color": "#d0021b"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "30%",
+"time": "07:00",
+"color": "#f5a623",
+"title": "07:20 경고(25분전) → 위험"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "60%",
+"time": "14:30",
+"color": "#d0021b",
+"title": "14:20 경고(25분전) → 위험"
+}
 ]
 },
-		{
-			"title":"MTrPD#3",
-			"items":[
-				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
-				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
-				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
-				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
-				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
-			]
-		},
-		{
-			"title":"bushing",
-			"items":[
-				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
-				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
-				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
-				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
-				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
-			]
-		},
-		{
-			"title":"oltc",
-			"items":[
-				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
-				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
-				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
-				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
-				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
-			]
-		},
-		{
-			"title":"dga",
-			"items":[
-				{"@tmpl":"timelineLine", "width":"30%", "left":"0", "color":"#7ad122"},
-				{"@tmpl":"timelineLine", "width":"30%", "left":"30%", "color":"#f5a623"},
-				{"@tmpl":"timelineLine", "width":"40%", "left":"60%", "color":"#d0021b"},
-				{"@tmpl":"timelineSpot", "left":"30%", "time":"07:00", "color":"#f5a623", "title":"07:20 경고(25분전) → 위험"},
-				{"@tmpl":"timelineSpot", "left":"60%", "time":"14:30", "color":"#d0021b", "title":"14:20 경고(25분전) → 위험"}
-			]
-		}
-	]
+{
+"sensorid": 8,
+"title": "고령S/S 북경남-고령#1T/L GIS Bay GISPD#2",
+"items": [
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "0",
+"color": "#7ad122"
+},
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "30%",
+"color": "#f5a623"
+},
+{
+"@tmpl": "timelineLine",
+"width": "40%",
+"left": "60%",
+"color": "#d0021b"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "30%",
+"time": "07:00",
+"color": "#f5a623",
+"title": "07:20 경고(25분전) → 위험"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "60%",
+"time": "14:30",
+"color": "#d0021b",
+"title": "14:20 경고(25분전) → 위험"
+}
+]
+},
+{
+"sensorid": 9,
+"title": "MTrPD#3",
+"items": [
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "0",
+"color": "#7ad122"
+},
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "30%",
+"color": "#f5a623"
+},
+{
+"@tmpl": "timelineLine",
+"width": "40%",
+"left": "60%",
+"color": "#d0021b"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "30%",
+"time": "07:00",
+"color": "#f5a623",
+"title": "07:20 경고(25분전) → 위험"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "60%",
+"time": "14:30",
+"color": "#d0021b",
+"title": "14:20 경고(25분전) → 위험"
+}
+]
+},
+{
+"sensorid": 10,
+"title": "bushing",
+"items": [
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "0",
+"color": "#7ad122"
+},
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "30%",
+"color": "#f5a623"
+},
+{
+"@tmpl": "timelineLine",
+"width": "40%",
+"left": "60%",
+"color": "#d0021b"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "30%",
+"time": "07:00",
+"color": "#f5a623",
+"title": "07:20 경고(25분전) → 위험"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "60%",
+"time": "14:30",
+"color": "#d0021b",
+"title": "14:20 경고(25분전) → 위험"
+}
+]
+},
+{
+"sensorid": 11,
+"title": "oltc",
+"items": [
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "0",
+"color": "#7ad122"
+},
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "30%",
+"color": "#f5a623"
+},
+{
+"@tmpl": "timelineLine",
+"width": "40%",
+"left": "60%",
+"color": "#d0021b"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "30%",
+"time": "07:00",
+"color": "#f5a623",
+"title": "07:20 경고(25분전) → 위험"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "60%",
+"time": "14:30",
+"color": "#d0021b",
+"title": "14:20 경고(25분전) → 위험"
+}
+]
+},
+{
+"sensorid": 12,
+"title": "dga",
+"items": [
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "0",
+"color": "#7ad122"
+},
+{
+"@tmpl": "timelineLine",
+"width": "30%",
+"left": "30%",
+"color": "#f5a623"
+},
+{
+"@tmpl": "timelineLine",
+"width": "40%",
+"left": "60%",
+"color": "#d0021b"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "30%",
+"time": "07:00",
+"color": "#f5a623",
+"title": "07:20 경고(25분전) → 위험"
+},
+{
+"@tmpl": "timelineSpot",
+"left": "60%",
+"time": "14:30",
+"color": "#d0021b",
+"title": "14:20 경고(25분전) → 위험"
+}
+]
+}
+]
 }
