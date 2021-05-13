@@ -1,11 +1,12 @@
 {
 "page": {
-"total": 12,
+"total": 2,
 "per_page": 10,
 "current_page": 1,
 "from": 1,
-"to": 10
+"to": 2
 },
+"total":18,
 "data": [
 {
 "webid": 1,
@@ -16,7 +17,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 2,
 "check": false,
 "date": "16-10-26 09:29:23",
 "device": "진단유닛",
@@ -24,7 +25,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 3,
 "check": false,
 "date": "16-10-26 09:29:15",
 "device": "진단유닛",
@@ -32,7 +33,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 4,
 "sensorid": 1,
 "check": false,
 "date": "16-10-26 09:29:08",
@@ -41,7 +42,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 5,
 "sensorid": 1,
 "check": false,
 "date": "16-10-26 09:28:57",
@@ -50,16 +51,16 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 6,
 "sensorid": 1,
-"check": true,
+"check": false,
 "date": "16-10-26 09:28:47",
 "device": "진단유닛",
 "curr": "저장소70%초과",
 "info": "[C:\\]용량 경고 : 76%"
 },
 {
-"webid": 1,
+"webid": 7,
 "sensorid": 1,
 "check": false,
 "date": "16-10-26 09:28:46",
@@ -68,7 +69,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 8,
 "sensorid": 1,
 "check": false,
 "date": "16-10-24 14:17:42",
@@ -77,7 +78,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 9,
 "sensorid": 1,
 "check": false,
 "date": "16-10-24 00:30:36",
@@ -86,7 +87,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 10,
 "sensorid": 1,
 "check": false,
 "date": "16-10-23 23:30:52",
@@ -95,7 +96,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 11,
 "sensorid": 1,
 "check": false,
 "date": "16-10-23 23:30:11",
@@ -104,7 +105,7 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 12,
 "sensorid": 1,
 "check": false,
 "date": "16-10-23 23:29:15",
@@ -113,18 +114,18 @@
 "info": ""
 },
 {
-"webid": 1,
+"webid": 13,
 "sensorid": 1,
-"check": true,
+"check": false,
 "date": "16-10-23 23:25:00",
 "device": " GLU#1-GISPD1-4_PD",
 "curr": "PD발생중",
 "info": "9분 누적"
 },
 {
-"webid": 1,
+"webid": 14,
 "sensorid": 1,
-"check": true,
+"check": false,
 "date": "16-10-23 23:25:00",
 "device": " #1BUS-GISPD1-3_PD",
 "curr": "PD발생중",
